@@ -1,0 +1,5 @@
+db:
+  host: prodhost
+  database: proddb
+  username: admin
+  password: 123456
